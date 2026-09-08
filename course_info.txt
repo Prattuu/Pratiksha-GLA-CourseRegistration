@@ -3,3 +3,4 @@ Roll Number: 2415001893
 Subject Name: Application Build and Release Automation Lab
 Project Name: Online Course Registration System
 Semester: 5th Semester
+Course Status: Registration Open
